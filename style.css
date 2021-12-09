@@ -1,0 +1,47 @@
+#submit_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+	background-color:powderblue;
+	border-style:solid;
+	border-radius:15px;
+	border-width:2px;
+}
+#sort_button
+{
+	display: none;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+	background-color:powderblue;
+	border-style:solid;
+	border-radius:15px;
+	border-width:2px;
+}
+
+input
+{
+	margin: 10px;
+	border: 3px solid powderblue;
+}
+#srch{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+	background-color:powderblue;
+	border-style:solid;
+	border-radius:15px;
+	border-width:2px;
+}
+#EnterP{
+	display:none;
+}
+html{
+	background-color: pink
+}
+#show{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+	background-color:powderblue;
+	border-style:solid;
+	border-radius:15px;
+	border-width:2px;
+}
